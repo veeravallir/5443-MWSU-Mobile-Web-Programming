@@ -1,10 +1,10 @@
 ## Quiz 2 Grade: 0%
 
-1. 0 (out of 25)
-2. 0 (out of 25)
-3. 0 (out of 50) 
+1. 25 (out of 25)
+2. 25 (out of 25)
+3. 50 (out of 50) 
 
-Did not complete the assignment.
+100%
 
 -----
 #### Assignment Instructions
